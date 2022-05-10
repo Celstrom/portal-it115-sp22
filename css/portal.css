@@ -3,9 +3,10 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 0.95em;
+    background-color: rgb(65, 63, 190);
+    /* font-family: 'Quicksand', sans-serif; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 0.90em;
     line-height: 1.5em;
 }
 
@@ -21,8 +22,23 @@ h1 {
     line-height: 2.5em;
 }
 
+h1.logo {
+
+
+
+}
+
+
+header h1{
+
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 48px;
+        text-shadow: 4px 4px 4px #aaa;
+}
+
+
 main.wrapper {
-    background-color: white;
+    background-color: rgb(195, 205, 223);
     overflow: auto;
 }
 
